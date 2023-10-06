@@ -35,7 +35,7 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fvaysh&show_icons=true&theme=tokyonight&text_color=8c00ff&locale=en" alt="fvaysh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fvaysh&show_icons=true&theme=tokyonight&text_color=c7d2ff&locale=en" alt="fvaysh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fvaysh&theme=highcontrast" alt="fvaysh" /></p>
 
