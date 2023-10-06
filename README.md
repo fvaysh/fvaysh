@@ -1,5 +1,5 @@
 ![logo](https://github.com/fvaysh/fvaysh/blob/main/Brown%20Geometric%20Fashion%20Banner%20Landscape.png)
-<h1 align="center">Hi 👋, I'm Aditya VS</h1>
+<h1 align="center">Hi 👋, I'm fvaysh</h1>
 <h3 align="center">Developer (Web), Deep Learning Enthusiast</h3>
 
 - 🔭 I’m currently working on **Valhareym**
