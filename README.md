@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aditya VS</h1>
 <h3 align="center">Developer (Web), Deep Learning Enthusiast</h3>
 
-- 🔭 I’m currently working on **Valhareym.E**
+- 🔭 I’m currently working on **Valhareym**
 
 - 🌱 I’m currently learning **MERN, GoLang, Next.js**
 
