@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya VS</h1>
 <h3 align="center">Developer (Web), Deep Learning Enthusiast</h3>
-<img align = "right" alt = "GIF" width = "400" src "https://tenor.com/view/vinland-saga-gif-22062196">
+<img align = "right" alt = "GIF" width = "400" src "[https://tenor.com/view/vinland-saga-gif-22062196](https://media.tenor.com/WCf8OoN4BZAAAAAd/vinland-saga.gif)">
 
 - 🔭 I’m currently working on **Valhareym.E**
 
