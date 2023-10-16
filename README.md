@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN, GoLang, Next.js**
 
-- 💬 Ask me about **JS, C++, Python, HTML/CSS**
+- 💬 Ask me about **NOVELS, BOOKS**
 
 - 📫 How to reach me **vadityasai09@gmail.com**
 
