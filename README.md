@@ -32,7 +32,6 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 </p>
 
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fvaysh&theme=highcontrast" alt="fvaysh" /></p>
 
 [![An image of @fvaysh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fvaysh)](https://holopin.io/@fvaysh)
