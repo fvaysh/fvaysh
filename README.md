@@ -2,11 +2,13 @@
 <h1 align="center">Hi 👋, I'm fvaysh</h1>
 <h3 align="center">Developer (Web), Deep Learning Enthusiast</h3>
 
-- 🔭 I’m currently working on **Valhareym**
+- 🔭 Worked on **22+** Freelance - Based Projects
+  > Handled Backend Servers (AWS - NextJS - Express JS)
+  > Frontend UI (Shadcn, Material UI, etc)
+  
+- 🌱 I’m currently learning **DevOPS**
 
-- 🌱 I’m currently learning **MERN, GoLang, Next.js**
-
-- 💬 Ask me about **NOVELS, BOOKS**
+- 💬 Ask me about **Literary Pieces**
 
 - 📫 How to reach me **vadityasai09@gmail.com**
 
