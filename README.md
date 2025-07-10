@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm fvaysh</h1>
 <h3 align="center">Developer (Web), Deep Learning Enthusiast</h3>
 
-- 🔭 Worked on **22+** Freelance - Based Projects
-  > Handled Backend Servers (AWS - NextJS - Express JS)
+- 🔭 Worked on **11+** Freelance // Open - Source Based Projects
+  > Worked On Developing Backend Servers and Designed Pipelines (AWS)
   > Frontend UI (Shadcn, Material UI, etc)
   
 - 🌱 I’m currently learning **DevOPS**
